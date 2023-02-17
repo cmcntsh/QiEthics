@@ -8,7 +8,7 @@
 
 ### Language for masters projects
 
-
+The Department of Health and Human Services (HHS) provides guidance to help determine whether a project is considered research and subject to institutional review board (IRB) oversight (Office for Human Research Protections, n.d.). This quality improvement initiative was evaluated using the HHS criteria, and it was determined that the project did not meet the definition of research and was therefore not subject to IRB oversight. Nonetheless, the quality improvement activities were conducted in accordance with generally accepted ethical standards in research and healthcare.
 
 ### References
 
